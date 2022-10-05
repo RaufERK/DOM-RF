@@ -65,7 +65,4 @@ h3 {
   border: 5px solid lightskyblue;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
 }
-.container:hover {
-  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
-}
 </style>
