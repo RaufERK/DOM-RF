@@ -23,8 +23,8 @@
 
 <script>
 import { nanoid } from "nanoid";
-import Button from "../../shared/Button.vue";
-import InputNumberVue from "../../shared/Input.number.vue";
+import Button from "../shared/Button.vue";
+import InputNumberVue from "../shared/Input.number.vue";
 export default {
   name: "DorWayForm",
   components: { Button, InputNumberVue },

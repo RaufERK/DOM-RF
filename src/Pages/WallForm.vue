@@ -16,8 +16,8 @@
 </template>
 
 <script>
-import Button from "../../shared/Button.vue";
-import InputNumberVue from "../../shared/Input.number.vue";
+import Button from "../shared/Button.vue";
+import InputNumberVue from "../shared/Input.number.vue";
 export default {
   name: "WallForm",
   components: { Button, InputNumberVue },

@@ -12,7 +12,7 @@
 
 
 <script>
-import { plate } from "../data/constants";
+import { plate } from "../entities/constants";
 export default {
   name: "HelloWorld",
   props: {
