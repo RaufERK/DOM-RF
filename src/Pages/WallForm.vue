@@ -66,7 +66,6 @@ h3 {
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
 }
 .container:hover {
-  transform: scale(1.01);
   box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
 }
 </style>
